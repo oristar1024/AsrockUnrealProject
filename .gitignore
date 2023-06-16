@@ -72,8 +72,3 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-
-AsrockUnreal/Binaries/*
-AsrockUnreal/Intermediate/*
-AsrockUnreal/Saved/*
-AsrockUnreal.sln
